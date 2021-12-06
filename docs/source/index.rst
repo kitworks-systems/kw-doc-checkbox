@@ -1,5 +1,7 @@
-Kitworks Documentation Template
-================================
+Kitworks CheckBox Odoo Integration
+===================================
+
+
 
 .. note::
 

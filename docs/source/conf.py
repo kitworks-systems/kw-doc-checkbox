@@ -4,7 +4,7 @@ import sys
 
 import sphinx_rtd_theme
 
-project = 'Kitworks API'
+project = 'Kitworks CheckBox'
 version = '1.0.1'
 
 sys.path.insert(0, os.path.abspath('..'))
